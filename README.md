@@ -33,8 +33,6 @@
 - 🕰 Free time: Creation of bots for Telegram, Discord or even Facebook Messenger 
 - 🌱 I’m currently learning React 
 - 💬 You can ask me about chatbots, telegram or to get any solution about anything
-
-
 <br>
 
 ## How to Reach Me:
