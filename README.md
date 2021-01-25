@@ -35,5 +35,5 @@
 
 ## How to Reach Me:
 
-![https://t.me/michyaraque](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)![https://discordapp.com/users/Michy#4238](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![https://www.linkedin.com/in/michaelaraque/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![https://github.com/michydev](https://img.shields.io/badge/GitHub-1?style=for-the-badge&logo=github&logoColor=white&color=2e2e2e)
+[https://t.me/michyaraque](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)[https://discordapp.com/users/Michy#4238](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)[https://www.linkedin.com/in/michaelaraque/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[https://github.com/michydev](https://img.shields.io/badge/GitHub-1?style=for-the-badge&logo=github&logoColor=white&color=2e2e2e)
 
