@@ -28,12 +28,10 @@
 
 <img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=PHP&color=777BB4&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2314354C.svg?style=for-the-badge&logo=Node.Js&color=339933&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/unit_test%20-%23F05033.svg?&style=for-the-badge&logo=unit_test&logoColor=white"/><img src="https://img.shields.io/badge/mariadb%20-%2314354C.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/><img src="https://img.shields.io/badge/redis%20-%2314354C.svg?&style=for-the-badge&logo=redis&logoColor=white&color=DC382D"/><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/-And_more...-red?style=for-the-badge&color=5757B0"/>
 
-
 -  👨🏽‍💻 I’m currently working as PHP backend Developer
 - 🕰 Free time: Creation of bots for Telegram, Discord or even Facebook Messenger 
 - 🌱 I’m currently learning React 
 - 💬 You can ask me about chatbots, telegram or to get any solution about anything
-<br>
 
 ## How to Reach Me:
 
