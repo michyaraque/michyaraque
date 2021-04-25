@@ -19,7 +19,7 @@
 | <img src="https://i.imgur.com/2BOwLa7.png" width="50">  | <img src="https://i.imgur.com/A8Z3BHu.jpg" style="border-radius:5px" width="50">  | <img src="https://i.imgur.com/Q0ch8vS.jpg" style="border-radius:5px" width="50"> | <img src="https://i.imgur.com/yIxnBle.jpg" style="border-radius:5px" width="50">
 | :------------: | :------------: | :------------: | :------------: |
 | [CGrabber](https://t.me/cgrabberbot) [🌐](https://chollx.es) | [SrCoctelito](https://t.me/coctelesbot) [📰](https://www.genbeta.com/mensajeria-instantanea/nueve-utiles-bots-telegram-creados-desarrolladores-espanoles) | [El Taquillero](https://t.me/eltaquillerobot) | [Unshort](https://t.me/unshortbot) |
-| 👤 +600 | 👤 +3750 | 👤 +8900 | 👤 +4300 |
+| 👤 +800 | 👤 +9400 | 👤 +12000 | 👤 +4300 |
 
 
 </p>
