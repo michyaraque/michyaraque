@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Michael Araque</h1>
 
-<p align='center'>A web and chatbot developer from Venezuela living in Spain.</p>
+<p align='center'>A web and chatbot developer.</p>
 
 <p align="center">
     <img src="https://gpvc.arturio.dev/michydev" />
