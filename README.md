@@ -3,13 +3,13 @@
 <p align='center'>A web and chatbot developer.</p>
 
 <p align="center">
-    <img src="https://gpvc.arturio.dev/michydev" />
-    <img src="https://img.shields.io/github/stars/michydev?style=badge" />
-    <img src="https://img.shields.io/github/followers/michydev?style=badge" />
+    <img src="https://gpvc.arturio.dev/michyaraque" />
+    <img src="https://img.shields.io/github/stars/michyaraque?style=badge" />
+    <img src="https://img.shields.io/github/followers/michyaraque?style=badge" />
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michydev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michyaraque&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <hr>
@@ -35,4 +35,4 @@
 
 ## How to Reach Me:
 
-[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>](https://t.me/michyaraque)[<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'>](https://discordapp.com/users/Michy#4238)[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/michaelaraque)[<img src='https://img.shields.io/badge/GitHub-1?style=for-the-badge&logo=github&logoColor=white&color=2e2e2e'>](https://github.com/michydev)
+[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>](https://t.me/michyaraque)[<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'>](https://discordapp.com/users/Michy#4238)[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/michaelaraque)[<img src='https://img.shields.io/badge/GitHub-1?style=for-the-badge&logo=github&logoColor=white&color=2e2e2e'>](https://github.com/michyaraque)
