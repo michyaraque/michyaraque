@@ -1,4 +1,4 @@
-## Hi there <img src="https://i.imgur.com/rO1SYnw.gif" width="25px">, I'm Michael Araque
+## Hi there 👋, I'm Michael Araque
 
 <p align='center'>A web and chatbot developer.</p>
 
