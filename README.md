@@ -1,11 +1,6 @@
 ## Hi there 👋, I'm Michael Araque
 
-<p align='center'>A web and chatbot developer.</p>
-
-[<img align="left" alt="Mich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mich | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Mich | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Mich | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<p align='center'>A Blockend and Frontend <b>developer</b>.</p>
 
 [linkedin]: https://www.linkedin.com/in/michaelaraque/
 [telegram]: https://t.me/michyaraque
@@ -26,7 +21,7 @@
   <img align="right" alt="GIF" src="https://i.imgur.com/RhNB1Xa.gif" width="500" height="320" />
 </div>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <code><img height="20" src="https://img.shields.io/badge/-123.svg?style=for-the-badge&logo=solidity&logoColor=white"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,10 +37,6 @@
 - 🌱 I am currently improving my Frontend skills and learning Rust lang
 - 💬 You can ask me about chatbots, smart contracts or websites for a solution on anything
 
-<!--   GitHub stats graph -->
-![super0326's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=michyaraque&hide_border=true&theme=github-light)
-
-
 ## My Bots
 
 | <img src="https://i.imgur.com/2BOwLa7.png" width="50">  | <img src="https://i.imgur.com/A8Z3BHu.jpg" style="border-radius:5px" width="50">  | <img src="https://i.imgur.com/Q0ch8vS.jpg" style="border-radius:5px" width="50"> | <img src="https://i.imgur.com/yIxnBle.jpg" style="border-radius:5px" width="50">
@@ -54,3 +45,12 @@
 | 👤 +1100 | 👤 +9400 | 👤 +12000 | 👤 +4300 |
 
 </p>
+
+## Contact
+<p align="center">
+    <a href="https://www.linkedin.com/in/michaelaraque/"><img align="left" alt="Mich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://t.me/michyaraque"><img align="left" alt="Mich | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+    <a href="https://discord.com/users/Michy#4238"><img align="left" alt="Mich | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+    <a href="https://github.com/michyaraque"><img align="left" alt="Mich | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+</p>
+
