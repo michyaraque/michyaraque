@@ -1,56 +1,17 @@
-## Hi there 👋, I'm Michael Araque
+# 💫 About Me:
+👨🏽‍💻 I’m currently working as a Cofounder/Blockchain developer at ⚔️ Foxtrot Command ⚔️<br>🕰 Free time: Creation of bots for Telegram, Discord or even Facebook Messenger<br>🌱 I am currently improving my Frontend skills and learning Rust lang<br>💬 You can ask me about chatbots, smart contracts or websites for a solution on anything
 
-<p align='center'>A Blockend and Frontend <b>developer</b>.</p>
 
-[linkedin]: https://www.linkedin.com/in/michaelaraque/
-[telegram]: https://t.me/michyaraque
-[discord]: https://discordapp.com/users/Michy#4238
-[github]: https://github.com/michyaraque
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/users/Michy#4238) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/michyaraque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michaelaraque/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/michyaraque) 
 
-<p align="center">
-    <img src="https://gpvc.arturio.dev/michyaraque" />
-    <img src="https://img.shields.io/github/stars/michyaraque?style=badge" />
-    <img src="https://img.shields.io/github/followers/michyaraque?style=badge" />
-</p>
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=michyaraque&theme=dark&hide_border=false)<br/>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michyaraque&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+### ✍️ My thoughts
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&myquote=The%20impossible%20only%20costs%20a%20little%20more)
 
- <div>
-  <img align="right" alt="GIF" src="https://i.imgur.com/RhNB1Xa.gif" width="500" height="320" />
-</div>
-
-## Languages and Tools:
-
-<code><img height="20" src="https://img.shields.io/badge/-123.svg?style=for-the-badge&logo=solidity&logoColor=white"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
--  👨🏽‍💻 I’m currently working as a Cofounder/Blockchain developer at [⚔️ Foxtrot Command ⚔️](https://foxtrotcommand.com)
-- 🕰 Free time: Creation of bots for Telegram, Discord or even Facebook Messenger 
-- 🌱 I am currently improving my Frontend skills and learning Rust lang
-- 💬 You can ask me about chatbots, smart contracts or websites for a solution on anything
-
-## My Bots
-
-| <img src="https://i.imgur.com/2BOwLa7.png" width="50">  | <img src="https://i.imgur.com/A8Z3BHu.jpg" style="border-radius:5px" width="50">  | <img src="https://i.imgur.com/Q0ch8vS.jpg" style="border-radius:5px" width="50"> | <img src="https://i.imgur.com/yIxnBle.jpg" style="border-radius:5px" width="50">
-| :------------: | :------------: | :------------: | :------------: |
-| [CGrabber](https://t.me/cgrabberbot) [🌐](https://chollx.es) | [SrCoctelito](https://t.me/coctelesbot) [📰](https://www.genbeta.com/mensajeria-instantanea/nueve-utiles-bots-telegram-creados-desarrolladores-espanoles) | [El Taquillero](https://t.me/eltaquillerobot) | [Unshort](https://t.me/unshortbot) |
-| 👤 +1100 | 👤 +9400 | 👤 +12000 | 👤 +4300 |
-
-</p>
-
-## Contact
-<p align="center">
-    <a href="https://www.linkedin.com/in/michaelaraque/"><img align="left" alt="Mich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://t.me/michyaraque"><img align="left" alt="Mich | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-    <a href="https://discord.com/users/Michy#4238"><img align="left" alt="Mich | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-    <a href="https://github.com/michyaraque"><img align="left" alt="Mich | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-</p>
-
+---
+[![](https://gpvc.arturio.dev/michyaraque)](---)
