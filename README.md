@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 I’m currently working as a Cofounder/Blockchain developer at ⚔️ Foxtrot Command ⚔️<br>🕰 Free time: Creation of bots for Telegram, Discord or even Facebook Messenger<br>🌱 I am currently improving my Frontend skills and learning Rust lang<br>💬 You can ask me about chatbots, smart contracts or websites for a solution on anything
+👨🏽‍💻 I’m currently working as a Cofounder/Blockchain<br>🕰 Free time: Creation of bots for Telegram, Discord or even Facebook Messenger<br>🌱 I am currently improving my Frontend skills and learning Rust lang<br>💬 You can ask me about chatbots, smart contracts or websites for a solution on anything
 
 
 ## 🌐 Socials:
